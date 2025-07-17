@@ -1,6 +1,6 @@
 # login-page-test-cases
 Manual test cases for Login functionality
-## 📌 Project Information
+## Project Information
 
 - **Project Name**: OULMS
 - **Module**: Login
@@ -17,7 +17,7 @@ Manual test cases for Login functionality
 | TS_OULMS_01 | TC_OULMS_login_003 | Invalid username & valid password | Error Message Displayed |
 | TS_OULMS_01 | TC_OULMS_login_004 | Invalid username & invalid password | Error Message Displayed |
 ---
-## 📝 Included Details
+## Included Details
 
 - **Test Steps**: Step-by-step instructions for test execution.
 - **Pre-Conditions**: Required environment and access details.
@@ -27,21 +27,21 @@ Manual test cases for Login functionality
 - **Status**: PASS/FAIL status of each case.
 - **Executed By**: Tester with execution date.
 ---
-## 💡 Purpose
+## Purpose
 
 This project demonstrates:
 - Writing **structured manual test cases** using industry formats.
 - Practicing **positive and negative testing techniques**.
 - Preparing **professional QA documentation** for portfolio and interview readiness.
 ---
-## 📂 Folder Structure
+## Folder Structure
 📁 OULMS-Login-Test-Cases
 └── 📄 Test case (oulms login).xlsx
 └── 📄 README.md
 
 ---
 
-## 🌟 Author
+## Author
 
 **Abirami**  
 Beginner QA Tester | Building strong foundations in **Manual Testing** and **Software Quality Assurance**.
